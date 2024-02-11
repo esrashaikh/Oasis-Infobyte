@@ -1,0 +1,1 @@
+Embark on my internship journey with Oasis Info Byte through this repository featuring simple web applications crafted with HTML, CSS, and JavaScript. Trace my progression from basic projects to more intricate features, observing firsthand my development in web development skills.
