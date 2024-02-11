@@ -1,0 +1,1 @@
+JS Temperature Converter is a user-friendly JavaScript tool designed to effortlessly convert temperatures between Celsius, Fahrenheit, and Kelvin. With intuitive input options and instant results, this converter simplifies temperature conversions for seamless integration into websites and applications.
