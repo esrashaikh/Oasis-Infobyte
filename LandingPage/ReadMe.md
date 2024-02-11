@@ -1,0 +1,1 @@
+WorkFitGo's landing page, developed with HTML, CSS, and JavaScript, delivers a seamless and immersive user experience. With smooth animations, responsive design, and interactive elements, users can explore personalized workout plans and engage with the vibrant fitness community. Join us in shaping the future of fitness technology at WorkFitGo.
